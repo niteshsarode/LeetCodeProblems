@@ -7,4 +7,8 @@ This repository is intended to post my codes for solved LeetCode problems and im
 [Plus One](https://leetcode.com/problems/plus-one/description/)\
 [Rotate List](https://leetcode.com/problems/rotate-list/description/)\
 [Two Sum](https://leetcode.com/problems/two-sum/description/)\
-[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
+[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)\
+[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)\
+[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)\
+[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)\
+[Remove Nth node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
